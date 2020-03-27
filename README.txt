@@ -1,4 +1,4 @@
-This is my portfolio as software engineer
+The main purpose for this development is to introduce myself as a software engineer.
 
 Credits:
 
